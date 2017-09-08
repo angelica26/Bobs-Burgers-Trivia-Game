@@ -1,0 +1,39 @@
+#container {
+	width: 960px;
+	height: 960px;
+}
+
+
+
+/*#boblogo {
+	position: relative;
+	top: -1070px;
+	margin: 0 auto;
+	text-align: center;*/
+
+}
+
+#qbox {
+	background-color: orange;
+	/*opacity: 0.5;*/
+	width: 905px;
+	height: 800px;
+	position: relative;
+	/*z-index: 5;*/
+	top: 100px;
+	left: 35px;
+}
+
+input, label {
+	
+	margin: 15px, 20px, 15px, 20px;
+	
+}
+
+.answers {
+	margin-bottom: 30px;
+}
+
+.question {
+	margin-bottom: 10px;
+}
