@@ -6,4 +6,4 @@
 
 Simply click [here](https://angelica26.github.io/Bobs-Burgers-Trivia-Game/) to play.
 
-This trivia game was created with HTML, CSS, and JavaScript/jQuery and was an exercise in using timer functions and using dynamic same page content. 
+This trivia game was created with HTML, CSS, and JavaScript/jQuery. Enjoy!
